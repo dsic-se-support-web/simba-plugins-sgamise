@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Protection des médias</name>
+        <description>
+            Plugin pour protéger certains fichiers et dossiers médias contre la suppression.
+        </description>
+
+        <element>protectmedia</element>
+        <type>plugin</type>
+        <folder>system</folder>
+
+        <version>1.4.2</version>
+        <client>site</client>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/ProtectMedia/protectmedia-1.4.2.zip
+            </downloadurl>
+        </downloads>
+
+        <targetplatform name="joomla" version="5.[0-9]" />
+    </update>
+</updates>
