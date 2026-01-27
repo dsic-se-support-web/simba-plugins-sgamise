@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>Analyse Media Manager</name>
-        <description>Composant d'analyse du Media Manager</description>
+        <name>Akeeba Cleanup</name>
+        <description>Composant de nettoyage des backups Akeeba</description>
 
-        <element>com_mediausage</element>
+        <element>com_akeebacleanup</element>
         <type>component</type>
         <client>administrator</client>
 
-        <version>1.4.5</version>
+        <version>1.1.0</version>
 
         <downloads>
             <downloadurl type="full" format="zip">
-                https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/MediaUsage/mediausage-1.4.5.zip
+                https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/AkeebaCleanup/akeebacleanup-1.1.0.zip
             </downloadurl>
         </downloads>
 
-        <maintainer>Eric DUCAS</maintainer>
+        <maintainer>DSIC-SE Support Web</maintainer>
 
         <targetplatform name="joomla" version="5\.[0-9]+" />
 
@@ -25,3 +25,4 @@
         </tags>
     </update>
 </updates>
+
