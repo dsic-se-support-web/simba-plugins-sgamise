@@ -16,7 +16,7 @@
             </downloadurl>
         </downloads>
 
-        <maintainer>Eric DUCAS</maintainer>
+        <maintainer>DSIC-SE Support Web</maintainer>
 
         <targetplatform name="joomla" version="5\.[0-9]+" />
 
@@ -25,4 +25,5 @@
         </tags>
     </update>
 </updates>
+
 
