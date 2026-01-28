@@ -13,7 +13,7 @@
 
         <downloads>
             <downloadurl type="full" format="zip">
-				https://github.com/dsic-se-support-web/simba-plugins-sgamise/raw/refs/heads/main/ImageOptimiseur/imageoptimiseur-1.3.3.zip
+				https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/ImageOptimiseur/imageoptimiseur-1.3.3.zip
             </downloadurl>
         </downloads>
 		
@@ -26,6 +26,7 @@
         </tags>
     </update>
 </updates>
+
 
 
 
