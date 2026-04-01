@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>ActionLogsPrune</name>
+        <description>Plugin de purge planifiée du journal des actions avec politique de rétention.</description>
+
+        <element>actionlogprune</element>
+        <type>plugin</type>
+        <folder>task</folder>
+
+        <version>1.0.0</version>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/ActionLogPrune/actionlogprune-1.0.0.zip
+            </downloadurl>
+        </downloads>
+
+        <maintainer>DSIC-SE Support Web</maintainer>
+
+        <targetplatform name="joomla" version="5.[0-9]" />
+
+        <tags>
+            <tag>stable</tag>
+        </tags>
+    </update>
+</updates>
