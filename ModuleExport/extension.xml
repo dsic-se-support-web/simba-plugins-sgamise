@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Module Export</name>
+        <description>Exporte et importe les modules Joomla 5 au format JSON depuis le gestionnaire de modules.
+        Inclut un assistant de migration pour appliquer les paramètres DSFR.
+        </description>
+
+        <element>SIMBA_Module-Export</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <client>site</client>
+
+        <version>6.6.29</version>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://raw.githubusercontent.com/dsic-se-support-web/simba-plugins-sgamise/refs/heads/main/ProtectMedia/module-export-6.6.29.zip
+            </downloadurl>
+        </downloads>
+
+        <maintainer>DSIC-SE Support Web</maintainer>
+
+        <targetplatform name="joomla" version="5.[0-9]" />
+
+        <tags>
+            <tag>stable</tag>
+        </tags>
+    </update>
+</updates>
