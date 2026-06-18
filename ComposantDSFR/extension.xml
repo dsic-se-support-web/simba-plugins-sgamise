@@ -6,7 +6,6 @@
 
         <element>pkg_comdsfr</element>
         <type>package</type>
-        <folder></folder>
         <client>site</client>
 
         <version>1.2.0</version>
