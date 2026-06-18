@@ -4,7 +4,7 @@
         <name>Package Composants DSFR pour Joomla</name>
         <description>Package intégrant le composant et le plugin d'insertion des composants du DSFR v1.14</description>
 
-        <element>pkg_comdsfr</element>
+        <element>comdsfr</element>
         <type>package</type>
         <client>site</client>
 
