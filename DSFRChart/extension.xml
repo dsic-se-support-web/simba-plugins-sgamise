@@ -4,7 +4,7 @@
         <name>DSFRChart</name>
         <description>Composant d'insertion de ChartJS version DSFR</description>
 
-        <element>DSFRChart</element>
+        <element>pkg_dsfrchart</element>
         <type>package</type>
         <client>site</client>
 
