@@ -1,4 +1,4 @@
-# simba-plugins
+# simba-plugins-sgamise
 Dépôt des plugins développés par la Team SIMBA
 
 - ActionLogPrune : Tâche de suppression des entrées dans le journal des actions avec rétention configurable.
