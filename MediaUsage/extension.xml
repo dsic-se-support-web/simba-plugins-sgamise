@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Analyse Media Manager</name>
+        <description>Composant d'analyse du Media Manager</description>
+
+        <element>com_mediausage</element>
+        <type>component</type>
+        <client>administrator</client>
+
+        <version>2.0.1</version>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://api.github.com/repos/dsic-se-support-web/simba-plugins/contents/MediaUsage/mediausage-2.0.1.zip
+            </downloadurl>
+        </downloads>
+
+        <maintainer>DSIC-SE Support Web</maintainer>
+
+        <targetplatform name="joomla" version="5\.[0-9]+" />
+
+        <tags>
+            <tag>stable</tag>
+        </tags>
+    </update>
+</updates>
+
+
+
+

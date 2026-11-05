@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>DSFRChart</name>
+        <description>Composant d'insertion de ChartJS version DSFR</description>
+
+        <element>pkg_dsfrchart</element>
+        <type>package</type>
+        <client>site</client>
+
+        <version>2.1.2</version>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+				https://api.github.com/repos/dsic-se-support-web/simba-plugins/contents/DSFRChart/dsfrchart-2.1.2.zip
+            </downloadurl>
+        </downloads>
+		
+		<maintainer>DSIC-SE Support Web</maintainer>
+		
+        <targetplatform name="joomla" version="5.[0-9]" />
+
+        <tags>
+            <tag>stable</tag>
+        </tags>
+    </update>
+</updates>

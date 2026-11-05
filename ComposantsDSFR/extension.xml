@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Package Composants DSFR pour Joomla</name>
+        <description>Package intégrant le composant et le plugin d'insertion des composants du DSFR v1.14</description>
+
+        <element>pkg_comdsfr</element>
+        <type>package</type>
+        <client>site</client>
+
+        <version>2.2.1</version>
+
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://api.github.com/repos/dsic-se-support-web/simba-plugins/contents/ComposantsDSFR/composantsdsfr-2.2.1.zip
+            </downloadurl>
+        </downloads>
+        
+        <maintainer>DSIC-SE Support Web</maintainer>
+        
+        <targetplatform name="joomla" version="5.[0-9]" />
+
+        <tags>
+            <tag>stable</tag>
+        </tags>
+    </update>
+</updates>
